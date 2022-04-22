@@ -1,0 +1,25 @@
+{
+  "name": "cooki",
+  "version": "0.0.0",
+  "description": "An open source cookie manager",
+  "main": "./dist/cooki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrassoFederico/cooki.git"
+  },
+  "keywords": [
+    "cookie",
+    "manager",
+    "open",
+    "source"
+  ],
+  "author": "Grasso Federico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GrassoFederico/cooki/issues"
+  },
+  "homepage": "https://github.com/GrassoFederico/cooki#readme"
+}
