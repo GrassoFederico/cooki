@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/GrassoFederico/cooki#readme",
   "dependencies": {
-    "html-webpack-plugin": "^5.5.0",
     "path": "^0.12.7",
     "webpack": "^5.73.0",
     "webpack-merge": "^5.8.0"
